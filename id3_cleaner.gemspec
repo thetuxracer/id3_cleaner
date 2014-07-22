@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "id3_cleaner"
   spec.version       = Id3Cleaner::VERSION
   spec.authors       = ["Kaustubh"]
-  spec.email         = ["kaustubh@fab.com"]
+  spec.email         = ["theTuxRacer@Gmail.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
